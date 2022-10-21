@@ -1,4 +1,4 @@
-# Install script for directory: /home/david/pruebas/lab2-unit-tests-Dondig00
+# Install script for directory: /home/david/DPS-Projects/lab2-unit-tests-Dondig00
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/david/pruebas/lab2-unit-tests-Dondig00/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/david/DPS-Projects/lab2-unit-tests-Dondig00/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

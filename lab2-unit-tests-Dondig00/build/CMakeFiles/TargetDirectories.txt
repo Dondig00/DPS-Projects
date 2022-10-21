@@ -1,0 +1,3 @@
+/home/david/DPS-Projects/lab2-unit-tests-Dondig00/build/CMakeFiles/runTests.dir
+/home/david/DPS-Projects/lab2-unit-tests-Dondig00/build/CMakeFiles/edit_cache.dir
+/home/david/DPS-Projects/lab2-unit-tests-Dondig00/build/CMakeFiles/rebuild_cache.dir

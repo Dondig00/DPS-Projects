@@ -1,7 +1,7 @@
 CMakeFiles/runTests.dir/tests.cpp.o: \
- /home/david/pruebas/lab2-unit-tests-Dondig00/tests.cpp \
+ /home/david/DPS-Projects/lab2-unit-tests-Dondig00/tests.cpp \
  /usr/include/stdc-predef.h \
- /home/david/pruebas/lab2-unit-tests-Dondig00/exampleFunction.cpp \
+ /home/david/DPS-Projects/lab2-unit-tests-Dondig00/exampleFunction.cpp \
  /usr/include/c++/11/math.h /usr/include/c++/11/cmath \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
